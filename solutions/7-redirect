@@ -1,4 +1,4 @@
 POST /docs HTTP/1.1
-Host: localhost
+host: localhost
 
 Content-Length: 0
